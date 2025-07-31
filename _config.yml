@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Başak Bozkurt / Personal Website"
 title_separator          : "-"
 name                     : &name "Başak Bozkurt"
 description              : &description "personal description"
@@ -23,11 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Başak Bozkurt"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Oxford"
+  employer         : "University of Oxford"
   uri              : # URL
   email            : "basak.bozkurt@oii.ox.ac.uk" 
 
