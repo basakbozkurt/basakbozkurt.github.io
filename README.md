@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Academic Pages
 **Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 
@@ -94,3 +95,6 @@ Unfortunately, one logistical issue with a template theme like Academic Pages th
 [![GitHub stars](https://img.shields.io/github/stars/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io)
 [![GitHub forks](https://img.shields.io/github/forks/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/fork)
 </div>
+=======
+# basakbozkurt.github.io
+>>>>>>> 5dd8cb20187846ae7f845005520e890caf0fe9e0
