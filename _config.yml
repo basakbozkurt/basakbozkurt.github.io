@@ -13,9 +13,9 @@ title                    : "Başak Bozkurt / Personal Website"
 title_separator          : "-"
 name                     : &name "Başak Bozkurt"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://basakbozkurt.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "basakbozkurt/basakbozkurt.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,8 +25,8 @@ author:
   avatar           : "profile.png"
   name             : "Başak Bozkurt"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Oxford"
+  bio              : "Başak is a PhD student in Social Data Science at the Oxford Internet Institute."
+  location         : "Oxford, UK"
   employer         : "University of Oxford"
   uri              : # URL
   email            : "basak.bozkurt@oii.ox.ac.uk" 
