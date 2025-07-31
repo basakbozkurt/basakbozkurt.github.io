@@ -29,7 +29,7 @@ author:
   location         : "Oxford, UK"
   employer         : "University of Oxford"
   uri              : # URL
-  email            : "basak.bozkurt@oii.ox.ac.uk" 
+  #email            : "basak.bozkurt@oii.ox.ac.uk" 
 
   # Academic websites
   academia         : # URL
@@ -53,7 +53,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "basakbozkurt" # Replace this with you Bluesky username
+  bluesky          : "basakbozkurt.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
