@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Short bio"
+title: ""Research Study:  AI in Fact-Checking"
 author_profile: true
 redirect_from: 
   - /about/
