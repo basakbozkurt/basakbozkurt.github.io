@@ -6,7 +6,26 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## 📣 Participate in a Study on Fact-Checking and AI
 
-Başak is a PhD student in Social Data Science at the Oxford Internet Institute, where she examines the transformative role of Large Language Models (LLMs) in fact-checking. Her research spans political communication, political psychology and human-AI interaction, focusing on how LLMs shape fact-checking practices. This includes exploring how professionals incorporate LLMs into their workflows, analysing the impact of chatbot-assisted fact-checking on users’ beliefs in misinformation and evaluating the effectiveness of LLM-driven interventions in curbing the spread of misinformation on social media.
+I’m conducting a research study at the **Oxford Internet Institute**, University of Oxford, to better understand how fact-checkers use artificial intelligence (AI), especially generative AI tools such as ChatGPT, in their work.
 
-Başak holds a B.S. in Computer Engineering, an M.A. in Political Science and an M.A. in Sociology.
+### 🕒 What to Expect
+- A **45-minute online interview** in English  
+- Share your experiences and views on using AI in fact-checking  
+- Completely voluntary and confidential  
+
+### 🎯 Why Participate?
+By taking part, you'll help us understand the current fact-checking landscape—its challenges, needs, and transformation. Your insights will help shape better tools and systems to support your work.
+
+### 🎁 Compensation
+As a token of appreciation, participants will receive a **small compensation**.
+
+👉 **Interested? [Sign up here](https://forms.office.com/e/CFx3KB5mzj)**
+
+If you have questions, feel free to contact me: [basak.bozkurt@oii.ox.ac.uk](mailto:basak.bozkurt@oii.ox.ac.uk)
+
+---
+
+*Ethics Approval Reference: Oxford Internet Institute (OII) DREC – 706386*  
+*Researcher: Başak Bozkurt, DPhil Student, University of Oxford*
