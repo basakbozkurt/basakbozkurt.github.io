@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Başak Bozkurt / Personal Website"
+title                    : "AI & Fact-Checking Research"
 title_separator          : "-"
 name                     : &name "Başak Bozkurt"
 description              : &description "personal description"
