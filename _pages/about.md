@@ -38,4 +38,5 @@ If you have questions, feel free to contact me: [basak.bozkurt@oii.ox.ac.uk](mai
 ---
 
 *Ethics Approval Reference: Oxford Internet Institute (OII) DREC – 706386*  
-*Researcher: Başak Bozkurt, basak.bozkurt@oii.ox.ac.uk, University of Oxford*
+*Researcher: [Başak Bozkurt](https://www.oii.ox.ac.uk/people/profiles/basak-bozkurt/), University of Oxford*  
+*Supervisors: [Helen Margetts](https://www.oii.ox.ac.uk/people/profiles/helen-margetts/) and [Mohsen Mosleh](https://www.oii.ox.ac.uk/people/profiles/mohsen-mosleh/), University of Oxford*
