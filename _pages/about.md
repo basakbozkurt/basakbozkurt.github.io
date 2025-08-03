@@ -14,7 +14,7 @@ layout: single
 We are conducting a research study at the **Oxford Internet Institute**, **University of Oxford**, to better understand how fact-checkers use artificial intelligence (AI), especially generative AI tools such as ChatGPT, in their work.
 
 ### 🕒 What to Expect
-- A **45-minute online interview** in English  
+- A **~ 45-minute online interview** in English  
 - Share your experiences and views on using AI in fact-checking  
 
 ### 🎯 Why Participate?
@@ -38,4 +38,4 @@ If you have questions, feel free to contact me: [basak.bozkurt@oii.ox.ac.uk](mai
 ---
 
 *Ethics Approval Reference: Oxford Internet Institute (OII) DREC – 706386*  
-*Researcher: Başak Bozkurt, DPhil Researcher, University of Oxford*
+*Researcher: Başak Bozkurt, basak.bozkurt@oii.ox.ac.uk, University of Oxford*
