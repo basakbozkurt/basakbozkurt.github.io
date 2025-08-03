@@ -8,20 +8,30 @@ redirect_from:
 ---
 ## 📣 Participate in a Study on Fact-Checking and AI
 
-I’m conducting a research study at the **Oxford Internet Institute**, University of Oxford, to better understand how fact-checkers use artificial intelligence (AI), especially generative AI tools such as ChatGPT, in their work.
+We are conducting a research study at the **Oxford Internet Institute**, University of Oxford, to better understand how fact-checkers use artificial intelligence (AI), especially generative AI tools such as ChatGPT, in their work.
 
 ### 🕒 What to Expect
 - A **45-minute online interview** in English  
 - Share your experiences and views on using AI in fact-checking  
-- Completely voluntary and confidential  
 
 ### 🎯 Why Participate?
-By taking part, you'll help us understand the current fact-checking landscape—its challenges, needs, and transformation. Your insights will help shape better tools and systems to support your work.
-
-### 🎁 Compensation
-As a token of appreciation, participants will receive a **small compensation**.
+By participating, you will help us gain a deeper understanding of the current fact-
+checking landscape: its challenges, needs, and ongoing transformation. We hope the
+insights we gather will contribute to shaping future tools and systems that better
+support your work.
 
 👉 **Interested? [Sign up here](https://forms.office.com/e/CFx3KB5mzj)**
+
+### 🎁 Compensation
+As a token of appreciation, participants will receive a **compensation**.
+
+We will reach out by email to schedule the interview at a time that works best for you.
+
+Participation is completely voluntary, and all responses will be kept confidential and
+used only for research purposes.
+
+If you would like, we would also be happy to share a summary of the study’s findings
+with you once the research is completed.
 
 If you have questions, feel free to contact me: [basak.bozkurt@oii.ox.ac.uk](mailto:basak.bozkurt@oii.ox.ac.uk)
 
