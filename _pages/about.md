@@ -5,10 +5,13 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+layout: single
 ---
+![University of Oxford Logo](/images/Ox_logo.png)
+
 ## 📣 Participate in a Study on Fact-Checking and AI
 
-We are conducting a research study at the **Oxford Internet Institute**, University of Oxford, to better understand how fact-checkers use artificial intelligence (AI), especially generative AI tools such as ChatGPT, in their work.
+We are conducting a research study at the **Oxford Internet Institute**, **University of Oxford**, to better understand how fact-checkers use artificial intelligence (AI), especially generative AI tools such as ChatGPT, in their work.
 
 ### 🕒 What to Expect
 - A **45-minute online interview** in English  
@@ -20,15 +23,15 @@ checking landscape: its challenges, needs, and ongoing transformation. We hope t
 insights we gather will contribute to shaping future tools and systems that better
 support your work.
 
-👉 **Interested? [Sign up here](https://forms.office.com/e/CFx3KB5mzj)**
+Participation is completely voluntary, and all responses will be kept confidential and
+used only for research purposes.
 
-### 🎁 Compensation
-As a token of appreciation, participants will receive a **compensation**.
+👉 **Interested? [Sign up here](https://forms.office.com/e/CFx3KB5mzj)**
 
 We will reach out by email to schedule the interview at a time that works best for you.
 
-Participation is completely voluntary, and all responses will be kept confidential and
-used only for research purposes.
+### 🎁 Compensation
+As a token of appreciation, participants will receive a **compensation**.
 
 If you would like, we would also be happy to share a summary of the study’s findings
 with you once the research is completed.
