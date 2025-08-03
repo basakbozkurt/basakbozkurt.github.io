@@ -41,4 +41,4 @@ If you have questions, feel free to contact me: [basak.bozkurt@oii.ox.ac.uk](mai
 ---
 
 *Ethics Approval Reference: Oxford Internet Institute (OII) DREC – 706386*  
-*Researcher: Başak Bozkurt, DPhil Student, University of Oxford*
+*Researcher: Başak Bozkurt, DPhil Researcher, University of Oxford*
