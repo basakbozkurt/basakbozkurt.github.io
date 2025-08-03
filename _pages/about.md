@@ -18,10 +18,7 @@ We are conducting a research study at the **Oxford Internet Institute**, **Unive
 - Share your experiences and views on using AI in fact-checking  
 
 ### 🎯 Why Participate?
-By participating, you will help us gain a deeper understanding of the current fact-
-checking landscape: its challenges, needs, and ongoing transformation. We hope the
-insights we gather will contribute to shaping future tools and systems that better
-support your work.
+By participating, you will help us gain a deeper understanding of the current fact-checking landscape: its challenges, needs, and ongoing transformation. We hope the insights we gather will contribute to shaping future tools and systems that better support your work.
 
 Participation is completely voluntary, and all responses will be kept confidential and
 used only for research purposes.
@@ -33,7 +30,7 @@ We will reach out by email to schedule the interview at a time that works best f
 ### 🎁 Compensation
 As a token of appreciation, participants will receive a **compensation**.
 
-If you would like, we would also be happy to share a summary of the study’s findings
+If you would like, we would also be happy to share a summary of the findings
 with you once the research is completed.
 
 If you have questions, feel free to contact me: [basak.bozkurt@oii.ox.ac.uk](mailto:basak.bozkurt@oii.ox.ac.uk)
