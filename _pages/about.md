@@ -23,6 +23,8 @@ By participating, you will help us gain a deeper understanding of the current fa
 Participation is completely voluntary, and all responses will be kept confidential and
 used only for research purposes.
 
+ℹ️ Participants must be working at an IFCN signatory fact-checking organisation.
+
 👉 **Interested? [Sign up here](https://forms.office.com/e/CFx3KB5mzj)**
 
 We will reach out by email to schedule the interview at a time that works best for you.
