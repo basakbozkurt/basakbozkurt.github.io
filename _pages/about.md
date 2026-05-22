@@ -17,7 +17,7 @@ layout: single
 The ninth annual ACM Conference on Fairness, Accountability, and Transparency (FAccT 2026)  
 June 25–28, 2026 · Montréal, Canada
 
-[Download preprint (PDF)](/files/FactCheckers_GenAIv2.pdf) &nbsp;|&nbsp; [ACM DL](https://doi.org/10.1145/3805689.3806474)
+[Download preprint (PDF)](/files/FactCheckers_GenAI.pdf) &nbsp;|&nbsp; [ACM DL](https://doi.org/10.1145/3805689.3806474)
 
 ---
 

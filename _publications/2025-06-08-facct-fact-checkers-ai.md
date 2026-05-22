@@ -14,4 +14,4 @@ citation: 'Bozkurt, B., Mosleh, M., & Margetts, H. (2025). &quot;Fact-Checkers N
 
 **Venue:** The ninth annual ACM Conference on Fairness, Accountability, and Transparency (FAccT 2025)
 
-[Download preprint (PDF)](/files/FactCheckers_GenAIv2.pdf) &nbsp;|&nbsp; [ACM DL](https://doi.org/10.1145/3805689.3806474)
+[Download preprint (PDF)](/files/FactCheckers_GenAI.pdf) &nbsp;|&nbsp; [ACM DL](https://doi.org/10.1145/3805689.3806474)
