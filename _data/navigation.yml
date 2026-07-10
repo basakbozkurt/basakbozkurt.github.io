@@ -11,14 +11,14 @@ main:
   - title: "Home"
     url: /
 
-  - title: "Papers"
-    url: /publications/
+  # - title: "Papers"
+  #   url: /publications/
 
-  - title: "Workshops"
-    url: /workshops/
+  # - title: "Workshops"
+  #   url: /workshops/
 
-  - title: "Presentations"
-    url: /conferences/
+  # - title: "Presentations"
+  #   url: /conferences/
 
   # - title: "Teaching"
   #   url: /teaching/    
