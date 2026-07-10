@@ -96,6 +96,20 @@
   ],
   "presentations": [
     {
+      "name": "Debunking Vaccine and Climate Change Misinformation on Social Media Using Conversational AI",
+      "event": "IC2S2 2026",
+      "date": "2026-07-30",
+      "location": "Burlington, Vermont",
+      "description": "Presented in the Misinformation, Conspiracy, and Information Integrity session (Track D, Thu, 30 Jul, 10:45 AM - 12:15 PM, Jost Foundation (422))."
+    },
+    {
+      "name": "Fact-Checkers Navigating Generative AI: Practices, Boundaries, and Design Implications",
+      "event": "ACM FAccT 2026",
+      "date": "2026-06-27",
+      "location": "Montréal, Canada",
+      "description": "Presented in the News, Media, and Fact-Checking session (Sat, 27 Jun, 11:33 AM - 11:45 AM)."
+    },
+    {
       "name": "Talk 1 on Relevant Topic in Your Field",
       "event": "UC San Francisco, Department of Testing",
       "date": "2012-03-01",
