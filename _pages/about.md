@@ -13,7 +13,7 @@ layout: single
 
 **Fact-checking at a crossroads: Fact checkers' perspectives on Community Notes, AI integration, and design recommendations**
 
-Basak Bozkurt, Mohsen Mosleh, and Helen Margetts. 2026. Fact-checking at a crossroads: Fact checkers' perspectives on Community Notes, AI integration, and design recommendations. Harvard Kennedy School (HKS) Misinformation Review, 7(3). https://doi.org/10.37016/mr-2020-202
+Basak Bozkurt, Mohsen Mosleh, and Helen Margetts. 2026. Fact-checking at a crossroads: Fact checkers' perspectives on Community Notes, AI integration, and design recommendations. Harvard Kennedy School (HKS) Misinformation Review, 7(3). [https://doi.org/10.37016/mr-2020-202](https://doi.org/10.37016/mr-2020-202)
 
 [View PDF](https://misinforeview.hks.harvard.edu/wp-content/uploads/2026/07/bozkurt_fact-checking_community_notes_ai_20260707.pdf) &nbsp;|&nbsp; [HKS Review](https://misinforeview.hks.harvard.edu/article/fact-checking-at-a-crossroads-fact-checkers-perspectives-on-community-notes-ai-integration-and-design-recommendations/)
 
@@ -21,7 +21,7 @@ Basak Bozkurt, Mohsen Mosleh, and Helen Margetts. 2026. Fact-checking at a cross
 
 **Fact-Checkers Navigating Generative AI: Practices, Boundaries, and Design Implications**
 
-Basak Bozkurt, Mohsen Mosleh, and Helen Margetts. 2026. Fact-Checkers Navigating Generative AI: Practices, Boundaries, and Design Implications. Proceedings of the 2026 ACM Conference on Fairness, Accountability, and Transparency. Association for Computing Machinery, New York, NY, USA, 5546–5569. https://doi.org/10.1145/3805689.3806474
+Basak Bozkurt, Mohsen Mosleh, and Helen Margetts. 2026. Fact-Checkers Navigating Generative AI: Practices, Boundaries, and Design Implications. Proceedings of the 2026 ACM Conference on Fairness, Accountability, and Transparency. Association for Computing Machinery, New York, NY, USA, 5546–5569. [https://doi.org/10.1145/3805689.3806474](https://doi.org/10.1145/3805689.3806474)
 
 [View PDF](https://dl.acm.org/doi/pdf/10.1145/3805689.3806474) &nbsp;|&nbsp; [ACM DL](https://doi.org/10.1145/3805689.3806474)
 
