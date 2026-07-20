@@ -9,6 +9,21 @@ layout: single
 ---
 ![University of Oxford Logo](/images/Ox_logo.png)
 
+## 🏆 Outstanding Reviewer — ACM FAccT 2026
+
+I'm honored to have been recognized as one of the Outstanding Reviewers for ACM FAccT 2026!
+
+It's been a privilege to contribute to the FAccT community, and I'm thankful to the conference organizers for this recognition. 
+
+Congratulations to all of the other Outstanding Reviewers acknowledged this year! 
+
+I'm looking forward to continuing to support the community and contribute to research on fairness, accountability, transparency, and responsible AI.
+
+*According to the ACM FAccT 2026 Outstanding Reviewers list, my name, Basak Bozkurt, is included among those recognized.*
+
+![ACM FAccT 2026 Outstanding Reviewers list showing Basak Bozkurt](/images/outstanding_reviewers.png)
+
+
 ## 🎉 New Paper — HKS Misinformation Review 2026
 
 **Fact-checking at a crossroads: Fact checkers' perspectives on Community Notes, AI integration, and design recommendations**
